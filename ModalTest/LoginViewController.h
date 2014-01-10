@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LoginViewController.h
 //  ModalTest
 //
 //  Created by SDT-1 on 2014. 1. 10..
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UILabel *userName;
+@interface LoginViewController : UIViewController
 
 @end
